@@ -2,4 +2,4 @@
 *.log
 
 # Ignore the log folder
-log/
+log/*.orig
